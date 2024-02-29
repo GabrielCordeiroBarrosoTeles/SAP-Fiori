@@ -8,11 +8,6 @@
   
 </p>
 
-### Não postei o arquivo pois o limite é de 25MB...
-<p align="center">
-  <img src="img/github.png" alt="Img">
-</p>
-
 O SAP Fiori é uma abordagem de design e conjunto de tecnologias desenvolvidas pela SAP para melhorar a experiência do usuário em seus aplicativos empresariais. Ele visa proporcionar uma interface de usuário intuitiva, responsiva e moderna para os sistemas SAP, tornando mais fácil para os usuários interagirem com os dados e processos de negócios.
 
 O Fiori oferece uma variedade de aplicativos, divididos em diferentes tipos, como aplicativos de transação, análise, informação e muitos outros. Cada tipo de aplicativo atende a uma necessidade específica dentro do ambiente empresarial.
